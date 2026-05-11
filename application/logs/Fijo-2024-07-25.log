@@ -1,0 +1,17 @@
+Agregado; 2024-07-25 13:17:55; Préstamo: 435 Pago de cliente: jose hernandez Balance anterior $70000.00 Monto pagado $3400.00 PAGO IRREGULAR $70000.00 BALANCE ACTUAL
+Agregado; 2024-07-25 13:18:16; Préstamo: 406 Pago de cliente: miguelina alonzo paulino Balance anterior $50000.00 Monto pagado $2500.00 INTERES $50000.00 BALANCE ACTUAL
+Agregado; 2024-07-25 13:18:50; Préstamo: 376 Pago de cliente: elisabeth serrano Balance anterior $60000.00 Monto pagado $3500 PAGO IRREGULAR $60000.00 BALANCE ACTUAL
+Agregado; 2024-07-25 13:19:17; Préstamo: 357 Pago de cliente: teresa morel gabino Balance anterior $53000.00 Monto pagado $2650.00 INTERES $53000.00 BALANCE ACTUAL
+Agregado; 2024-07-25 13:20:01; Préstamo: 177 Pago de cliente: felicia lorenny benjamin serra Balance anterior $55000.00 Monto pagado $2750.00 INTERES $55000.00 BALANCE ACTUAL
+Agregado; 2024-07-25 13:20:01; Préstamo: 177 Abono pago irregular - cliente: felicia lorenny benjamin serra $1450 PAGO IRREGULAR $55000.00 BALANCE ACTUAL
+Agregado; 2024-07-25 13:20:33; Préstamo: 221 Pago de cliente: ulfralina gonzalez de la rosa Balance anterior $122000.00 Monto pagado $6000.00 PAGO IRREGULAR $122000.00 BALANCE ACTUAL
+Agregado; 2024-07-25 13:20:33; Préstamo: 221 Abono pago irregular - cliente: ulfralina gonzalez de la rosa $1450 PAGO IRREGULAR $122000.00 BALANCE ACTUAL
+Actualizado; 2024-07-25 14:23:18; Préstamo cliente: ulfralina gonzalez de la rosa monto prestado $80000.00 duración: 10 meses interes: 6100
+Actualizado; 2024-07-25 14:46:57; Préstamo cliente: ruddy morales fernandez monto prestado $150000.00 duración: 10 meses interes: 7500
+Agregado; 2024-07-25 17:28:55; Préstamo: 400 Adicional al capital, cliente:  $4000
+Agregado; 2024-07-25 18:04:05; Préstamo: 238 Adicional al capital, cliente:  $20000
+Agregado; 2024-07-25 18:10:07; Nuevo préstamo cliente: nolberto joel lopez de jesus monto prestado $131000 duración: 10 meses interes: 6550
+Eliminado; 2024-07-25 18:13:00; Préstamo: 238 Cliente: nolberto joel lopez de jesus monto $130500.00 duración: 10 meses interes: 5525.00
+Eliminado; 2024-07-25 18:13:00; Préstamo: 238 
+Eliminado; 2024-07-25 18:13:00; amortización: 238 
+Agregado; 2024-07-25 18:56:19; Préstamo: 331 Pago de cliente: candida andujar Balance anterior $60000.00 Monto pagado $3000.00 INTERES $60000.00 BALANCE ACTUAL

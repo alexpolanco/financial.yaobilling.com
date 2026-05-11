@@ -1,0 +1,18 @@
+Agregado; 2024-06-28 12:19:41; Préstamo: 397 Adicional al capital, cliente:  $12000
+Agregado; 2024-06-28 16:26:15; Préstamo: 396 Pago de cliente: jack michael morillo Balance anterior $2100050.00 Monto pagado $2040000 PAGO IRREGULAR $2100050.00 BALANCE ACTUAL
+Agregado; 2024-06-28 16:31:50; Nuevo préstamo cliente: jack michael morillo  monto prestado $178500 duración: 10 meses interes: 7140
+Eliminado; 2024-06-28 16:35:11; Préstamo: 396 Cliente: jack michael morillo  monto $2100050.00 duración: 10 meses interes: 114750.00
+Eliminado; 2024-06-28 16:35:11; Préstamo: 396 
+Eliminado; 2024-06-28 16:35:11; amortización: 396 
+Agregado; 2024-06-28 18:35:11; Préstamo: 337 Adicional al capital, cliente:  $5000
+Agregado; 2024-06-28 18:35:56; Préstamo: 337 Abono al capital de cliente: delva altagracia vanderhorst almeyda $150000 
+Agregado; 2024-06-28 18:40:42; Nuevo préstamo cliente: delva altagracia vanderhorst almeyda monto prestado $115000 duración: 10 meses interes: 4600
+Eliminado; 2024-06-28 18:42:16; Préstamo: 337 Cliente: delva altagracia vanderhorst almeyda monto $115000.00 duración: 10 meses interes: 5750.00
+Eliminado; 2024-06-28 18:42:16; Préstamo: 337 
+Eliminado; 2024-06-28 18:42:16; amortización: 337 
+Agregado; 2024-06-28 18:43:57; Préstamo: 339 Pago de cliente: jenny claritza placencia encarnacion Balance anterior $50000.00 Monto pagado $2500.00 INTERES $50000.00 BALANCE ACTUAL
+Agregado; 2024-06-28 18:43:57; Préstamo: 339 Abono al capital de cliente: jenny claritza placencia encarnacion $50000 
+Agregado; 2024-06-28 19:40:19; Préstamo: 342 Adicional al capital, cliente:  $2000
+Agregado; 2024-06-28 19:40:42; Préstamo: 382 Adicional al capital, cliente:  $7000
+Actualizado; 2024-06-28 19:48:55; Préstamo cliente: nelson maximiliano sosa guillermo monto prestado $60000.00 duración: 20 quincenas interes: 3250
+Agregado; 2024-06-28 19:49:48; Préstamo: 386 Pago de cliente: nelson maximiliano sosa guillermo Balance anterior $65000.00 Monto pagado $3250.00 INTERES $65000.00 BALANCE ACTUAL

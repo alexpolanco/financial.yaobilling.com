@@ -1,0 +1,21 @@
+Agregado; 2023-10-09 11:34:32; Nuevo préstamo cliente: adonis taveras garcia  monto prestado $5000 duración: 1 mes interes: 3600
+Agregado; 2023-10-09 12:34:51; Nuevo préstamo cliente: ramon garcia monto prestado $155000 duración: 1 mes interes: 000
+Agregado; 2023-10-09 12:35:12; PAGO IRREGULAR
+Agregado; 2023-10-09 12:35:12; abono al capital de cliente: ramon garcia $155000 
+Agregado; 2023-10-09 13:41:14; Nuevo préstamo cliente: miguel hilario pichardo monto prestado $500 duración: 1 mes interes: 00
+Agregado; 2023-10-09 14:08:39; Nuevo préstamo cliente: edward alexander polanco alvarado monto prestado $1000 duración: 1 mes interes: 00
+Agregado; 2023-10-09 14:26:34; Nuevo préstamo cliente: roberto rosa polonia monto prestado $1500 duración: 1 mes interes: 500
+Agregado; 2023-10-09 16:10:59; PAGO IRREGULAR
+Agregado; 2023-10-09 16:10:59; abono al capital de cliente: adonis taveras garcia $10000 
+Agregado; 2023-10-09 16:37:47; PAGO IRREGULAR
+Agregado; 2023-10-09 16:37:47; abono al capital de cliente: adonis taveras garcia $1000 
+Agregado; 2023-10-09 16:45:41; abono al capital de cliente: adonis taveras garcia $1000 
+Agregado; 2023-10-09 17:08:21; PAGO IRREGULAR
+Agregado; 2023-10-09 17:08:21; abono al capital de cliente: adonis taveras garcia $1000 
+Eliminado; 2023-10-09 17:09:07; Abono del cliente: adonis taveras garcia  monto INTERES $3600
+Eliminado; 2023-10-09 17:09:07; Abono del cliente:  monto  $
+Eliminado; 2023-10-09 17:09:36; Abono del cliente: adonis taveras garcia  monto CAPITAL $1000
+Eliminado; 2023-10-09 17:09:36; Abono del cliente:  monto  $
+Agregado; 2023-10-09 17:18:57; abono al capital de cliente: concepcion jazmin ramon $5000 
+Agregado; 2023-10-09 17:27:09; PAGO IRREGULAR
+Agregado; 2023-10-09 17:27:09; abono al capital de cliente: concepcion jazmin ramon $5000 

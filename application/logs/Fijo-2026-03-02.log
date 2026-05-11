@@ -1,0 +1,21 @@
+Agregado; 2026-03-02 13:02:39; Préstamo: 582 Pago de cliente: perla massiel acosta faña Balance anterior $140000.00 Monto pagado $3500.00 INTERES $140000.00 BALANCE ACTUAL
+Agregado; 2026-03-02 13:04:25; Préstamo: 728 Pago de cliente: nelson maximiliano sosa guillermo Balance anterior $214000.00 Monto pagado $5350.00 INTERES $214000.00 BALANCE ACTUAL
+Agregado; 2026-03-02 13:19:54; Préstamo: 589 Adicional al capital, cliente:  $15000
+Agregado; 2026-03-02 14:43:22; Nuevo préstamo cliente: tomas garcia rodriguez monto prestado $300000 duración: 10 meses interes: 15000
+Eliminado; 2026-03-02 14:48:01; Préstamo: 739 Cliente: tomas garcia rodriguez monto $300000.00 duración: 10 meses interes: 15000.00
+Eliminado; 2026-03-02 14:48:01; Préstamo: 739 
+Eliminado; 2026-03-02 14:48:01; amortización: 739 
+Agregado; 2026-03-02 14:49:00; Nuevo préstamo cliente: tomas garcia rodriguez monto prestado $300000 duración: 10 meses interes: 12000
+Agregado; 2026-03-02 15:59:05; Nuevo préstamo cliente: eladio antonio brito lopez monto prestado $250000 duración: 10 meses interes: 12500
+Agregado; 2026-03-02 16:03:55; Nuevo préstamo cliente: yoseli pamela calcaño lopez monto prestado $50000 duración: 10 meses interes: 2500
+Eliminado; 2026-03-02 16:04:14; Préstamo: 621 Cliente: yoseli pamela calcaño lopez monto $50000.00 duración: 10 meses interes: 2500.00
+Eliminado; 2026-03-02 16:04:14; Préstamo: 621 
+Eliminado; 2026-03-02 16:04:14; amortización: 621 
+Actualizado; 2026-03-02 16:16:45; Préstamo cliente: yoseli pamela calcaño lopez monto prestado $50000.00 duración: 10 meses interes: 2500
+Eliminado; 2026-03-02 18:04:02; Préstamo: 731 Cliente: ricardo paula polanco  monto $25000.00 duración: 10 meses interes: 1250.00
+Eliminado; 2026-03-02 18:04:02; Préstamo: 731 
+Eliminado; 2026-03-02 18:04:02; amortización: 731 
+Agregado; 2026-03-02 18:29:29; Nuevo préstamo cliente: ana faustina faña gil monto prestado $235000 duración: 10 meses interes: 7050
+Actualizado; 2026-03-02 18:30:08; Préstamo cliente: ana faustina faña gil monto prestado $235000.00 duración: 10 meses interes: 9400
+Agregado; 2026-03-02 19:13:28; Préstamo: 718 Adicional al capital, cliente:  $15000
+Agregado; 2026-03-02 19:29:12; Nuevo préstamo cliente: jose francisco silvestre marte monto prestado $200000 duración: 10 meses interes: 10000

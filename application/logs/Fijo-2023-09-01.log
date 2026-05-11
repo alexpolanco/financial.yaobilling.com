@@ -1,0 +1,10 @@
+Agregado; 2023-09-01 14:03:17; Nuevo préstamo cliente: juan alberto marte peña monto prestado $680000 duración: 10 meses interes: 34000
+Agregado; 2023-09-01 14:06:48; PAGO IRREGULAR
+Agregado; 2023-09-01 14:06:48; abono al capital de cliente: juan alberto marte peña $680000 
+Eliminado; 2023-09-01 14:09:15; Prestamo del cliente: juan alberto marte peña monto $313500.00 duración: 20 quincenas interes: 7837.50
+Eliminado; 2023-09-01 14:09:15; Préstamo: 132 
+Eliminado; 2023-09-01 14:09:15; amortización: 132 
+Agregado; 2023-09-01 14:12:01; Nuevo préstamo cliente: juan alberto marte peña monto prestado $55000 duración: 5 meses interes: 2750
+Eliminado; 2023-09-01 15:32:05; Prestamo del cliente: julia antonia jazmin monto $22500.00 duración: 10 meses interes: 1625.00
+Eliminado; 2023-09-01 15:32:05; Préstamo: 192 
+Eliminado; 2023-09-01 15:32:05; amortización: 192 

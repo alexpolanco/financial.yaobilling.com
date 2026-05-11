@@ -1,0 +1,11 @@
+Agregado; 2025-01-17 15:08:03; Préstamo: 500 Adicional al capital, cliente:  $20000
+Agregado; 2025-01-17 15:09:40; Nuevo préstamo cliente: hugo rodriguez  monto prestado $91500 duración: 10 meses interes: 4575
+Eliminado; 2025-01-17 15:15:17; Préstamo: 500 Cliente: hugo rodriguez  monto $91500.00 duración: 10 meses interes: 4575.00
+Eliminado; 2025-01-17 15:15:17; Préstamo: 500 
+Eliminado; 2025-01-17 15:15:17; amortización: 500 
+Agregado; 2025-01-17 18:28:49; Nuevo préstamo cliente: sebastiana tirado melo monto prestado $50000 duración: 10 meses interes: 2500
+Eliminado; 2025-01-17 18:30:30; Préstamo: 465 Cliente: sebastiana tirado melo monto $55000.00 duración: 10 meses interes: 2750.00
+Eliminado; 2025-01-17 18:30:30; Préstamo: 465 
+Eliminado; 2025-01-17 18:30:30; amortización: 465 
+Agregado; 2025-01-17 18:36:44; Nuevo préstamo cliente: maribel maria gil monto prestado $100000 duración: 10 meses interes: 5000
+Actualizado; 2025-01-17 18:37:28; Préstamo cliente: maribel maria gil monto prestado $200000 duración: 10 meses interes: 5000

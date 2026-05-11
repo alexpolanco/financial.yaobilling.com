@@ -1,0 +1,23 @@
+Agregado; 2023-06-20 15:32:15; Nuevo préstamo cliente: pedro pablo valdez sanchez monto prestado $34000 duración: 6 meses interes: 0
+Agregado; 2023-06-20 15:36:38; adicional al capital, cliente:  $1000
+Agregado; 2023-06-20 16:17:00; PAGO IRREGULAR
+Agregado; 2023-06-20 16:17:00; abono al capital de cliente: pedro pablo valdez sanchez $5000 
+Eliminado; 2023-06-20 16:32:59; Adicional del cliente:  monto  $
+Eliminado; 2023-06-20 16:32:59; Adicional del cliente: pedro pablo valdez sanchez monto ADICIONAL $1000
+Eliminado; 2023-06-20 16:33:11; Abono del cliente: pedro pablo valdez sanchez monto CAPITAL $5000
+Eliminado; 2023-06-20 16:33:11; Abono del cliente:  monto  $
+Eliminado; 2023-06-20 16:40:54; Abono del cliente: pedro pablo valdez sanchez monto INTERES $5000
+Eliminado; 2023-06-20 16:40:54; Transacción: 200 
+Eliminado; 2023-06-20 16:40:54; amortización: 274 
+Eliminado; 2023-06-20 16:40:54; Abono del cliente:  monto  $
+Eliminado; 2023-06-20 16:40:54; Transacción:  
+Eliminado; 2023-06-20 16:40:54; amortización:  
+Agregado; 2023-06-20 16:48:15; PAGO IRREGULAR
+Agregado; 2023-06-20 16:48:15; abono al capital de cliente: pedro pablo valdez sanchez $2000 
+Eliminado; 2023-06-20 17:05:59; Abono del cliente: pedro pablo valdez sanchez monto CAPITAL $2000
+Eliminado; 2023-06-20 17:05:59; Transacción: 200 
+Actualizado; 2023-06-20 17:05:59; Préstamo: 274 
+Eliminado; 2023-06-20 17:05:59; amortización: 274 
+Eliminado; 2023-06-20 17:05:59; Abono del cliente:  monto  $
+Eliminado; 2023-06-20 17:05:59; Transacción:  
+Eliminado; 2023-06-20 17:05:59; amortización:  

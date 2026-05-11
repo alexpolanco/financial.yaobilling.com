@@ -1,0 +1,71 @@
+Actualizado; 2023-08-17 08:23:51; Préstamo cliente: wilfry lantigua monto prestado $80000.00 duración: 24 quincenas interes: 2500
+Agregado; 2023-08-17 08:24:06; PAGO IRREGULAR
+Agregado; 2023-08-17 12:07:09; PAGO IRREGULAR
+Edicion; 2023-08-17 12:07:28; Transaccion: 472 nuevo valor interes: 1000 nuevo valor capital: 3000
+Actualizado; 2023-08-17 12:08:31; Préstamo cliente: marlene rafaela lopez pichardo monto prestado $40000.00 duración: 10 quincenas interes: 4000.00
+Agregado; 2023-08-17 12:09:27; PAGO IRREGULAR
+Eliminado; 2023-08-17 12:09:43; Abono del cliente: marlene rafaela lopez pichardo monto CUOTA $4000
+Eliminado; 2023-08-17 12:09:43; Transacción: 472 
+Eliminado; 2023-08-17 12:09:43; amortización: 62 
+Eliminado; 2023-08-17 12:09:43; Abono del cliente:  monto  $
+Eliminado; 2023-08-17 12:09:43; Transacción:  
+Eliminado; 2023-08-17 12:09:43; amortización:  
+Eliminado; 2023-08-17 12:09:55; Abono del cliente: marlene rafaela lopez pichardo monto CUOTA $4000
+Eliminado; 2023-08-17 12:09:55; Transacción: 473 
+Eliminado; 2023-08-17 12:09:55; amortización: 62 
+Eliminado; 2023-08-17 12:09:55; Abono del cliente:  monto  $
+Eliminado; 2023-08-17 12:09:55; Transacción:  
+Eliminado; 2023-08-17 12:09:55; amortización:  
+Actualizado; 2023-08-17 12:13:16; Préstamo cliente: marlene rafaela lopez pichardo monto prestado $40000.00 duración: 14 quincenas interes: 4000.00
+Agregado; 2023-08-17 12:14:35; PAGO IRREGULAR
+Edicion; 2023-08-17 12:14:55; Transaccion: 472 nuevo valor interes: 1000 nuevo valor capital: 500
+Eliminado; 2023-08-17 12:16:07; Abono del cliente:  monto  $
+Eliminado; 2023-08-17 12:16:07; Transacción:  
+Eliminado; 2023-08-17 12:16:07; amortización:  
+Eliminado; 2023-08-17 12:16:07; Abono del cliente: marlene rafaela lopez pichardo monto PAGO IRREGULAR $3800
+Eliminado; 2023-08-17 12:16:07; Transacción: 423 
+Eliminado; 2023-08-17 12:16:07; amortización: 62 
+Eliminado; 2023-08-17 12:16:07; Abono del cliente: marlene rafaela lopez pichardo monto  $3800
+Eliminado; 2023-08-17 12:16:07; Transacción: 423 
+Eliminado; 2023-08-17 12:16:07; amortización: 62 
+Agregado; 2023-08-17 12:16:24; PAGO IRREGULAR
+Eliminado; 2023-08-17 12:19:53; Abono del cliente:  monto  $
+Eliminado; 2023-08-17 12:19:53; Transacción:  
+Eliminado; 2023-08-17 12:19:53; amortización:  
+Eliminado; 2023-08-17 12:19:53; Abono del cliente: marlene rafaela lopez pichardo monto PAGO IRREGULAR $1500
+Eliminado; 2023-08-17 12:19:53; Transacción: 472 
+Eliminado; 2023-08-17 12:19:53; amortización: 62 
+Eliminado; 2023-08-17 12:19:53; Abono del cliente: marlene rafaela lopez pichardo monto  $1500
+Eliminado; 2023-08-17 12:19:53; Transacción: 472 
+Eliminado; 2023-08-17 12:19:53; amortización: 62 
+Eliminado; 2023-08-17 12:19:53; Abono del cliente: marlene rafaela lopez pichardo monto CUOTA $4000
+Eliminado; 2023-08-17 12:19:53; Transacción: 473 
+Eliminado; 2023-08-17 12:19:53; amortización: 62 
+Agregado; 2023-08-17 12:20:05; PAGO IRREGULAR
+Agregado; 2023-08-17 12:20:15; PAGO IRREGULAR
+Agregado; 2023-08-17 12:21:11; PAGO IRREGULAR
+Agregado; 2023-08-17 12:21:26; PAGO IRREGULAR
+Agregado; 2023-08-17 12:21:53; PAGO IRREGULAR
+Actualizado; 2023-08-17 12:22:33; Préstamo cliente: marlene rafaela lopez pichardo monto prestado $40000.00 duración: 14 quincenas interes: 1000
+Agregado; 2023-08-17 12:22:41; PAGO IRREGULAR
+Eliminado; 2023-08-17 12:23:10; Abono del cliente:  monto  $
+Eliminado; 2023-08-17 12:23:10; Transacción:  
+Eliminado; 2023-08-17 12:23:10; amortización:  
+Eliminado; 2023-08-17 12:23:10; Abono del cliente: marlene rafaela lopez pichardo monto CUOTA $1000
+Eliminado; 2023-08-17 12:23:10; Transacción: 477 
+Eliminado; 2023-08-17 12:23:10; amortización: 62 
+Actualizado; 2023-08-17 12:23:21; Préstamo cliente: marlene rafaela lopez pichardo monto prestado $40000.00 duración: 14 quincenas interes: 1000.00
+Agregado; 2023-08-17 12:23:30; PAGO IRREGULAR
+Eliminado; 2023-08-17 12:24:21; Prestamo del cliente: marlene rafaela lopez pichardo monto $40000.00 duración: 14 quincenas interes: 1000.00
+Eliminado; 2023-08-17 12:24:21; Préstamo: 62 
+Eliminado; 2023-08-17 12:24:21; transacciones del préstamo: 62 
+Eliminado; 2023-08-17 12:24:21; amortización: 62 
+Agregado; 2023-08-17 12:26:26; Nuevo préstamo cliente: marlene rafaela lopez pichardo monto prestado $40000 duración: 14 meses interes: 4000
+Actualizado; 2023-08-17 12:27:17; Préstamo cliente: marlene rafaela lopez pichardo monto prestado $40000.00 duración: 7 meses interes: 8000
+Agregado; 2023-08-17 15:20:57; PAGO IRREGULAR
+Agregado; 2023-08-17 15:21:34; PAGO IRREGULAR
+Agregado; 2023-08-17 15:22:20; PAGO IRREGULAR
+Eliminado; 2023-08-17 16:12:54; Prestamo del cliente: miguela dippiton dippiton  monto $150000.00 duración: 18 meses interes: 10500.00
+Eliminado; 2023-08-17 16:12:54; Préstamo: 16 
+Eliminado; 2023-08-17 16:12:54; transacciones del préstamo: 16 
+Eliminado; 2023-08-17 16:12:54; amortización: 16 

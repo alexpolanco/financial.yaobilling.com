@@ -1,0 +1,30 @@
+Edicion; 2023-05-19 15:58:27; Transaccion: 302 nuevo valor interes: 1750 nuevo valor capital: 2550
+Edicion; 2023-05-19 15:58:46; Transaccion: 335 nuevo valor interes: 1750 nuevo valor capital: 2250
+Actualizado; 2023-05-19 16:03:30; Préstamo cliente: yeraldin paulino bonilla monto prestado $40000.00 duración: 20 quincenas interes: 4000
+Actualizado; 2023-05-19 16:03:58; Préstamo cliente: yeraldin paulino bonilla monto prestado $40000.00 duración: 20 quincenas interes: 2000.00
+Edicion; 2023-05-19 16:04:12; Transaccion: 144 nuevo valor interes: 1000 nuevo valor capital: 1000
+Edicion; 2023-05-19 16:04:38; Transaccion: 173 nuevo valor interes: 1000 nuevo valor capital: 1000
+Edicion; 2023-05-19 16:04:53; Transaccion: 253 nuevo valor interes: 1000 nuevo valor capital: 1000
+Edicion; 2023-05-19 16:05:03; Transaccion: 304 nuevo valor interes: 1000 nuevo valor capital: 1000
+Edicion; 2023-05-19 16:05:15; Transaccion: 340 nuevo valor interes: 1000 nuevo valor capital: 1000
+Edicion; 2023-05-19 16:05:34; Transaccion: 347 nuevo valor interes: 1000 nuevo valor capital: 1000
+Actualizado; 2023-05-19 16:20:53; Préstamo cliente: ernesto moris geronimo monto prestado $40000.00 duración: 10 meses interes: 4500.00
+Actualizado; 2023-05-19 16:26:14; Préstamo cliente: ernesto moris geronimo monto prestado $40000.00 duración: 10 meses interes: 4500.00
+Agregado; 2023-05-19 16:28:22; Nuevo préstamo cliente: ana yasmin monto prestado $10000 duración: 10 semanas interes: 1000
+Eliminado; 2023-05-19 16:29:27; Prestamo del cliente: ana yasmin monto $10000.00 duración: 10 semanas interes: 1000.00
+Eliminado; 2023-05-19 16:29:27; Préstamo: 74 
+Eliminado; 2023-05-19 16:29:27; transacciones del préstamo: 74 
+Eliminado; 2023-05-19 16:29:27; amortización: 74 
+Agregado; 2023-05-19 16:30:29; PAGO IRREGULAR
+Eliminado; 2023-05-19 16:31:34; Abono del cliente: adonis taveras garcia  monto CUOTA $4000
+Eliminado; 2023-05-19 16:31:34; Transacción: 353 
+Eliminado; 2023-05-19 16:31:34; amortización: 45 
+Eliminado; 2023-05-19 16:31:34; Abono del cliente:  monto  $
+Eliminado; 2023-05-19 16:31:34; Transacción:  
+Eliminado; 2023-05-19 16:31:34; amortización:  
+Eliminado; 2023-05-19 16:49:33; Abono del cliente: adonis taveras garcia  monto CUOTA $4000
+Eliminado; 2023-05-19 16:49:33; Transacción: 353 
+Eliminado; 2023-05-19 16:49:33; amortización: 45 
+Eliminado; 2023-05-19 16:49:33; Abono del cliente:  monto  $
+Eliminado; 2023-05-19 16:49:33; Transacción:  
+Eliminado; 2023-05-19 16:49:33; amortización:  

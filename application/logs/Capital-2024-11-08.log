@@ -1,0 +1,19 @@
+Agregado; 2024-11-08 15:50:06; PAGO IRREGULAR
+Agregado; 2024-11-08 15:50:06; Préstamo: 162 Abono pago irregular - cliente: margarita disla gonzalez $2000 ABONO PAGO IRREGULAR
+Eliminado; 2024-11-08 15:50:51; Préstamo:  Abono del cliente:  monto  $
+Eliminado; 2024-11-08 15:50:51; Transacción:  
+Eliminado; 2024-11-08 15:50:51; amortización:  
+Eliminado; 2024-11-08 15:50:51; Préstamo: 162 Abono del cliente: margarita disla gonzalez monto PAGO IRREGULAR $2000
+Eliminado; 2024-11-08 15:50:51; Transacción: 1312 
+Eliminado; 2024-11-08 15:50:51; amortización: 162 
+Agregado; 2024-11-08 15:52:55; Préstamo: 162 Abono al capital de cliente: margarita disla gonzalez $2000 
+Agregado; 2024-11-08 15:54:34; Préstamo: 134 Abono al capital de cliente: luis alfredo bruno morel $2100 
+Eliminado; 2024-11-08 15:56:02; Préstamo: 134 Cliente: luis alfredo bruno morel monto $2900.00 duración: 10 meses interes: 2300.00
+Eliminado; 2024-11-08 15:56:02; Préstamo: 134 
+Eliminado; 2024-11-08 15:56:02; transacciones del préstamo: 134 
+Eliminado; 2024-11-08 15:56:02; amortización: 134 
+Agregado; 2024-11-08 19:14:41; Nuevo préstamo cliente: bienvenido amparo padilla monto prestado $67500 duración: 10 meses interes: 4000
+Eliminado; 2024-11-08 19:16:40; Préstamo: 153 Cliente: bienvenido amparo padilla monto $56000.00 duración: 10 semanas interes: 4000.00
+Eliminado; 2024-11-08 19:16:40; Préstamo: 153 
+Eliminado; 2024-11-08 19:16:40; transacciones del préstamo: 153 
+Eliminado; 2024-11-08 19:16:40; amortización: 153 

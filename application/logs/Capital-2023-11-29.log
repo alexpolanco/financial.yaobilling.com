@@ -1,0 +1,34 @@
+Agregado; 2023-11-29 15:02:54; Nuevo préstamo cliente: alba daniela roque osorio monto prestado $40000 duración: 10 semanas interes: 5000
+Agregado; 2023-11-29 16:29:44; Préstamo: 78 Abono al capital de cliente: albania polanco sanchez $32150 
+Eliminado; 2023-11-29 16:30:58; Préstamo: 78 Abono del cliente: albania polanco sanchez monto CAPITAL $32150
+Eliminado; 2023-11-29 16:30:58; Transacción: 661 
+Actualizado; 2023-11-29 16:30:58; Préstamo: 78 
+Eliminado; 2023-11-29 16:30:58; amortización: 78 
+Eliminado; 2023-11-29 16:30:58; Préstamo:  Abono del cliente:  monto  $
+Eliminado; 2023-11-29 16:30:58; Transacción:  
+Eliminado; 2023-11-29 16:30:58; amortización:  
+Agregado; 2023-11-29 16:58:36; Préstamo: 78 Abono al capital de cliente: albania polanco sanchez $32150 
+Edicion; 2023-11-29 17:07:34; Transaccion: 548 nuevo valor interes: 3000 nuevo valor capital: 600
+Edicion; 2023-11-29 17:08:05; Transaccion: 580 nuevo valor interes: 3000 nuevo valor capital: 400
+Edicion; 2023-11-29 17:08:28; Transaccion: 656 nuevo valor interes: 3000 nuevo valor capital: 600
+Eliminado; 2023-11-29 17:09:26; Préstamo: 57 Abono del cliente: angel jimenez paniagua monto PAGO IRREGULAR $3600
+Eliminado; 2023-11-29 17:09:26; Transacción: 656 
+Eliminado; 2023-11-29 17:09:26; amortización: 57 
+Eliminado; 2023-11-29 17:09:26; Préstamo:  Abono del cliente:  monto  $
+Eliminado; 2023-11-29 17:09:26; Transacción:  
+Eliminado; 2023-11-29 17:09:26; amortización:  
+Agregado; 2023-11-29 17:37:22; PAGO IRREGULAR
+Eliminado; 2023-11-29 17:37:39; Préstamo: 57 Abono del cliente: angel jimenez paniagua monto PAGO IRREGULAR $3600
+Eliminado; 2023-11-29 17:37:39; Transacción: 662 
+Eliminado; 2023-11-29 17:37:39; amortización: 57 
+Eliminado; 2023-11-29 17:37:39; Préstamo:  Abono del cliente:  monto  $
+Eliminado; 2023-11-29 17:37:39; Transacción:  
+Eliminado; 2023-11-29 17:37:39; amortización:  
+Agregado; 2023-11-29 17:37:53; PAGO IRREGULAR
+Agregado; 2023-11-29 17:38:22; PAGO IRREGULAR
+Eliminado; 2023-11-29 17:38:40; Préstamo: 57 Abono del cliente: angel jimenez paniagua monto CUOTA $6000
+Eliminado; 2023-11-29 17:38:40; Transacción: 663 
+Eliminado; 2023-11-29 17:38:40; amortización: 57 
+Eliminado; 2023-11-29 17:38:40; Préstamo:  Abono del cliente:  monto  $
+Eliminado; 2023-11-29 17:38:40; Transacción:  
+Eliminado; 2023-11-29 17:38:40; amortización:  

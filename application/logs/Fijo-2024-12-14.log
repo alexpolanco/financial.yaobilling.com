@@ -1,0 +1,12 @@
+Agregado; 2024-12-14 13:59:50; Préstamo: 279 Pago de cliente: perla massiel acosta faña Balance anterior $100000.00 Monto pagado $2500.00 INTERES $100000.00 BALANCE ACTUAL
+Actualizado; 2024-12-14 14:38:47; Préstamo cliente: raul caraballo liranzo monto prestado $145000.00 duración: 10 meses interes: 8650
+Agregado; 2024-12-14 14:45:29; Nuevo préstamo cliente: raul caraballo liranzo monto prestado $195000 duración: 10 meses interes: 9750
+Agregado; 2024-12-14 16:01:11; Préstamo: 476 Pago de cliente: rosa lidia paredes miguel Balance anterior $110000.00 Monto pagado $60000 PAGO IRREGULAR $110000.00 BALANCE ACTUAL
+Agregado; 2024-12-14 16:08:38; Nuevo préstamo cliente: rosa lidia paredes miguel monto prestado $110000 duración: 10 meses interes: 5500
+Agregado; 2024-12-14 16:09:20; Préstamo: 489 Pago de cliente: rosa lidia paredes miguel Balance anterior $110000.00 Monto pagado $5500.00 INTERES $110000.00 BALANCE ACTUAL
+Eliminado; 2024-12-14 16:09:41; Préstamo: 476 Cliente: rosa lidia paredes miguel monto $110000.00 duración: 10 meses interes: 5500.00
+Eliminado; 2024-12-14 16:09:41; Préstamo: 476 
+Eliminado; 2024-12-14 16:09:41; amortización: 476 
+Actualizado; 2024-12-14 16:10:00; Préstamo cliente: rosa lidia paredes miguel monto prestado $110000.00 duración: 10 meses interes: 5500
+Agregado; 2024-12-14 16:10:23; Préstamo: 489 Pago de cliente: rosa lidia paredes miguel Balance anterior $110000.00 Monto pagado $5500.00 INTERES $110000.00 BALANCE ACTUAL
+Agregado; 2024-12-14 16:10:56; Préstamo: 489 Abono al capital de cliente: rosa lidia paredes miguel $60000 

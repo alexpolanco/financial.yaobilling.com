@@ -1,0 +1,24 @@
+Agregado; 2023-11-02 07:36:19; Nuevo préstamo cliente: ramon garcia monto prestado $30000 duración: 10 meses interes: 1500
+Agregado; 2023-11-02 10:06:15; PAGO IRREGULAR
+Agregado; 2023-11-02 10:07:22; PAGO IRREGULAR
+Agregado; 2023-11-02 10:45:39; Nuevo préstamo cliente: magaly rivas tejada monto prestado $80000 duración: 10 meses interes: 4000
+Agregado; 2023-11-02 13:40:04; adicional al capital, cliente:  $15000
+Agregado; 2023-11-02 14:46:25; Nuevo préstamo cliente: rosmelin garcia taveras monto prestado $40000 duración: 10 meses interes: 2000
+Agregado; 2023-11-02 14:46:55; PAGO IRREGULAR
+Agregado; 2023-11-02 14:46:55; abono al capital de cliente: rosmelin garcia taveras $40000 
+Agregado; 2023-11-02 16:50:45; Nuevo préstamo cliente: jose rafael francisco reynoso consuegra monto prestado $10000 duración: 10 meses interes: 500
+Agregado; 2023-11-02 16:51:10; PAGO IRREGULAR
+Agregado; 2023-11-02 16:51:10; abono al capital de cliente: jose rafael francisco reynoso consuegra $10000 
+Eliminado; 2023-11-02 16:51:44; Prestamo del cliente: jose rafael francisco reynoso consuegra monto $0.00 duración: 10 meses interes: 500.00
+Eliminado; 2023-11-02 16:51:44; Préstamo: 294 
+Eliminado; 2023-11-02 16:51:44; amortización: 294 
+Agregado; 2023-11-02 16:52:13; Nuevo préstamo cliente: jose rafael francisco reynoso consuegra monto prestado $11500 duración: 10 meses interes: 575
+Agregado; 2023-11-02 16:52:32; PAGO IRREGULAR
+Agregado; 2023-11-02 16:52:32; abono al capital de cliente: jose rafael francisco reynoso consuegra $10000 
+Actualizado; 2023-11-02 16:53:41; Préstamo cliente: jose rafael francisco reynoso consuegra monto prestado $11500.00 duración: 10 meses interes: 575
+Eliminado; 2023-11-02 16:54:12; Prestamo del cliente: jose rafael francisco reynoso consuegra monto $1500.00 duración: 10 meses interes: 575.00
+Eliminado; 2023-11-02 16:54:12; Préstamo: 294 
+Eliminado; 2023-11-02 16:54:12; amortización: 294 
+Agregado; 2023-11-02 16:54:41; Nuevo préstamo cliente: jose rafael francisco reynoso consuegra monto prestado $11500 duración: 10 meses interes: 575
+Agregado; 2023-11-02 16:55:01; PAGO IRREGULAR
+Agregado; 2023-11-02 16:55:01; abono al capital de cliente: jose rafael francisco reynoso consuegra $11500 

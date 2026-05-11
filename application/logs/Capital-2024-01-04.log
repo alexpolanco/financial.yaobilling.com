@@ -1,0 +1,24 @@
+Agregado; 2024-01-04 11:42:43; Préstamo: 103 Adicional al capital, cliente:  $7000
+Agregado; 2024-01-04 13:50:16; Nuevo préstamo cliente: santo benigno rosario monto prestado $50000 duración: 10 meses interes: 5000
+Agregado; 2024-01-04 14:41:26; Préstamo: 21 Adicional al capital, cliente:  $8000
+Agregado; 2024-01-04 15:04:59; PAGO IRREGULAR
+Eliminado; 2024-01-04 15:05:22; Préstamo: 87 Cliente: lesly miguel silverio monto $49000.00 duración: 10 meses interes: 3000.00
+Eliminado; 2024-01-04 15:05:22; Préstamo: 87 
+Eliminado; 2024-01-04 15:05:22; transacciones del préstamo: 87 
+Eliminado; 2024-01-04 15:05:22; amortización: 87 
+Agregado; 2024-01-04 16:40:14; PAGO IRREGULAR
+Eliminado; 2024-01-04 16:40:55; Préstamo: 101 Abono del cliente: nicolas morel toribio  monto CUOTA $6000
+Eliminado; 2024-01-04 16:40:55; Transacción: 722 
+Eliminado; 2024-01-04 16:40:55; amortización: 101 
+Eliminado; 2024-01-04 16:40:55; Préstamo:  Abono del cliente:  monto  $
+Eliminado; 2024-01-04 16:40:55; Transacción:  
+Eliminado; 2024-01-04 16:40:55; amortización:  
+Agregado; 2024-01-04 16:41:33; Préstamo: 101 Abono al capital de cliente: nicolas morel toribio $37000 
+Eliminado; 2024-01-04 16:43:24; Préstamo:  Abono del cliente:  monto  $
+Eliminado; 2024-01-04 16:43:24; Transacción:  
+Eliminado; 2024-01-04 16:43:24; amortización:  
+Eliminado; 2024-01-04 16:43:24; Préstamo: 101 Abono del cliente: nicolas morel toribio  monto CAPITAL $37000
+Eliminado; 2024-01-04 16:43:24; Transacción: 722 
+Actualizado; 2024-01-04 16:43:24; Préstamo: 101 
+Eliminado; 2024-01-04 16:43:24; amortización: 101 
+Agregado; 2024-01-04 16:43:55; Préstamo: 101 Abono al capital de cliente: nicolas morel toribio $37000 

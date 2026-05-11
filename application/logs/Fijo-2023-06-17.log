@@ -1,0 +1,19 @@
+Eliminado; 2023-06-17 09:15:31; Prestamo del cliente: juan ulloa altagracia  monto $113000.00 duración: 10 meses interes: 5650.00
+Eliminado; 2023-06-17 09:15:31; Préstamo: 62 
+Eliminado; 2023-06-17 09:15:31; amortización: 62 
+Agregado; 2023-06-17 09:17:13; Nuevo préstamo cliente: juan ulloa altagracia  monto prestado $150000 duración: 10 meses interes: 7500
+Eliminado; 2023-06-17 09:23:17; Prestamo del cliente: juan ulloa altagracia  monto $150000.00 duración: 10 meses interes: 7500.00
+Eliminado; 2023-06-17 09:23:17; Préstamo: 239 
+Eliminado; 2023-06-17 09:23:17; amortización: 239 
+Agregado; 2023-06-17 09:24:25; Nuevo préstamo cliente: juan ulloa altagracia  monto prestado $156300 duración: 10 meses interes: 7815
+Eliminado; 2023-06-17 10:02:52; Prestamo del cliente: buenaventura diaz calcaño monto $28000.00 duración: 15 semanas interes: 1500.00
+Eliminado; 2023-06-17 10:02:52; Préstamo: 99 
+Eliminado; 2023-06-17 10:02:52; amortización: 99 
+Agregado; 2023-06-17 10:04:23; Nuevo préstamo cliente: buenaventura diaz calcaño monto prestado $24700 duración: 10 meses interes: 1235
+Agregado; 2023-06-17 10:05:40; PAGO IRREGULAR
+Agregado; 2023-06-17 10:05:40; abono al capital de cliente: buenaventura diaz calcaño $24700 
+Agregado; 2023-06-17 10:31:44; adicional al capital, cliente:  $20000
+Agregado; 2023-06-17 10:55:40; adicional al capital, cliente:  $1000
+Agregado; 2023-06-17 12:09:37; adicional al capital, cliente:  $10000
+Agregado; 2023-06-17 12:11:16; adicional al capital, cliente:  $15000
+Actualizado; 2023-06-17 12:27:46; Préstamo cliente: rafael fermin andujar monto prestado $125000.00 duración: 4 meses interes: 10000

@@ -1,0 +1,9 @@
+Agregado; 2024-06-05 12:59:34; Nuevo préstamo cliente: pedro pablo valdez sanchez monto prestado $30000 duración: 6 meses interes: 6500
+Actualizado; 2024-06-05 13:00:36; Préstamo cliente: pedro pablo valdez sanchez monto prestado $30000.00 duración: 6 meses interes: 6500.00
+Agregado; 2024-06-05 13:06:58; Préstamo: 410 Abono al capital de cliente: pedro pablo valdez sanchez $6500 
+Eliminado; 2024-06-05 13:09:38; Préstamo: 410 Cliente: pedro pablo valdez sanchez monto $23500.00 duración: 6 meses interes: 6500.00
+Eliminado; 2024-06-05 13:09:38; Préstamo: 410 
+Eliminado; 2024-06-05 13:09:38; transacciones del préstamo: 410 
+Eliminado; 2024-06-05 13:09:38; amortización: 410 
+Agregado; 2024-06-05 13:10:24; Nuevo préstamo cliente: pedro pablo valdez sanchez monto prestado $23500 duración: 6 meses interes: 6500
+Agregado; 2024-06-05 13:10:39; Préstamo: 410 Abono al capital de cliente: pedro pablo valdez sanchez $6500 

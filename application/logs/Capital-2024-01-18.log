@@ -1,0 +1,14 @@
+Agregado; 2024-01-18 07:31:26; Préstamo: 8 Adicional al capital, cliente:  $2000
+Edicion; 2024-01-18 07:55:08; Transaccion: 553 nuevo valor interes: 5500 nuevo valor capital: 1300
+Edicion; 2024-01-18 07:55:46; Transaccion: 584 nuevo valor interes: 5500 nuevo valor capital: 1300
+Edicion; 2024-01-18 07:56:10; Transaccion: 652 nuevo valor interes: 5500 nuevo valor capital: 1300
+Eliminado; 2024-01-18 08:31:12; Préstamo: 8 Cliente: maria lopez mejia  monto $135000.00 duración: 21 meses interes: 6900.00
+Eliminado; 2024-01-18 08:31:12; Préstamo: 8 
+Eliminado; 2024-01-18 08:31:12; transacciones del préstamo: 8 
+Eliminado; 2024-01-18 08:31:12; amortización: 8 
+Agregado; 2024-01-18 08:33:08; Nuevo préstamo cliente: maria lopez mejia  monto prestado $50000 duración: 10 semanas interes: 3000
+Actualizado; 2024-01-18 08:33:25; Préstamo cliente: maria lopez mejia  monto prestado $50000.00 duración: 10 meses interes: 3000.00
+Agregado; 2024-01-18 09:34:30; PAGO IRREGULAR
+Agregado; 2024-01-18 10:38:29; Nuevo préstamo cliente: vianela almonte lopez monto prestado $35000 duración: 10 meses interes: 2700
+Agregado; 2024-01-18 11:01:55; Nuevo préstamo cliente: jose hernandez monto prestado $50000 duración: 20 meses interes: 3300
+Actualizado; 2024-01-18 14:02:03; Préstamo cliente: maria lopez mejia  monto prestado $50000.00 duración: 10 meses interes: 3000.00

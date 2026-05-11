@@ -1,0 +1,12 @@
+Agregado; 2023-10-12 16:06:16; Nuevo préstamo cliente: juan ulloa altagracia  monto prestado $128000 duración: 10 meses interes: 6400
+Agregado; 2023-10-12 16:06:56; abono al capital de cliente: juan ulloa altagracia $128000 
+Agregado; 2023-10-12 16:33:39; adicional al capital, cliente:  $5000
+Agregado; 2023-10-12 16:38:38; adicional al capital, cliente:  $6000
+Agregado; 2023-10-12 16:44:04; abono al capital de cliente: yolanda mercedes calcaño miguel $111000 
+Eliminado; 2023-10-12 16:44:41; Prestamo del cliente: yolanda mercedes calcaño miguel  monto $0.00 duración: 10 meses interes: 5550.00
+Eliminado; 2023-10-12 16:44:41; Préstamo: 148 
+Eliminado; 2023-10-12 16:44:41; amortización: 148 
+Agregado; 2023-10-12 16:45:05; Nuevo préstamo cliente: yolanda mercedes calcaño miguel  monto prestado $111000 duración: 10 meses interes: 5550
+Agregado; 2023-10-12 16:45:29; abono al capital de cliente: yolanda mercedes calcaño miguel $111000 
+Agregado; 2023-10-12 16:48:05; Nuevo préstamo cliente: julio payano monto prestado $68200 duración: 10 meses interes: 3410
+Agregado; 2023-10-12 16:49:02; abono al capital de cliente: julio payano $68200 

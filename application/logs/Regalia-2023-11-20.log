@@ -1,0 +1,27 @@
+Agregado; 2023-11-20 07:56:16; PAGO IRREGULAR
+Agregado; 2023-11-20 07:56:16; abono al capital de cliente: adonis taveras garcia $5000 
+Agregado; 2023-11-20 07:58:49; Nuevo préstamo cliente: albania polanco sanchez monto prestado $5000 duración: 1 mes interes: 1000
+Agregado; 2023-11-20 07:59:03; PAGO IRREGULAR
+Agregado; 2023-11-20 07:59:03; abono al capital de cliente: albania polanco sanchez $5000 
+Agregado; 2023-11-20 08:04:31; Nuevo préstamo cliente: maria lopez mejia  monto prestado $9000 duración: 1 mes interes: 500
+Agregado; 2023-11-20 08:05:30; PAGO IRREGULAR
+Agregado; 2023-11-20 08:05:30; abono al capital de cliente: maria lopez mejia $9000 
+Agregado; 2023-11-20 08:18:29; Nuevo préstamo cliente: reyna compres diez monto prestado $8000 duración: 1 mes interes: 4700
+Agregado; 2023-11-20 08:19:10; Nuevo préstamo cliente: reyna compres diez monto prestado $10000 duración: 1 mes interes: 2700
+Eliminado; 2023-11-20 08:19:22; Prestamo del cliente: reyna compres diez monto $23000.00 duración: 5 meses interes: 1400.00
+Eliminado; 2023-11-20 08:19:22; Préstamo: 299 
+Eliminado; 2023-11-20 08:19:22; transacciones del préstamo: 299 
+Eliminado; 2023-11-20 08:19:23; amortización: 299 
+Agregado; 2023-11-20 08:19:44; PAGO IRREGULAR
+Agregado; 2023-11-20 08:19:44; abono al capital de cliente: reyna compres diez $10000 
+Agregado; 2023-11-20 08:34:05; adicional al capital, cliente:  $1000
+Agregado; 2023-11-20 08:34:29; adicional al capital, cliente:  $2500
+Agregado; 2023-11-20 08:35:07; PAGO IRREGULAR
+Agregado; 2023-11-20 08:35:07; abono al capital de cliente: lesly miguel silverio $10000 
+Agregado; 2023-11-20 09:28:24; adicional al capital, cliente:  $6500
+Agregado; 2023-11-20 09:29:05; adicional al capital, cliente:  $7500
+Agregado; 2023-11-20 10:18:53; adicional al capital, cliente:  $1000
+Agregado; 2023-11-20 10:20:28; adicional al capital, cliente:  $1000
+Actualizado; 2023-11-20 10:35:49; Préstamo cliente: elizabeth noemi vanderhorst almeyda monto prestado $30000.00 duración: 5 meses interes: 15000.00
+Agregado; 2023-11-20 14:19:31; adicional al capital, cliente:  $5500
+Actualizado; 2023-11-20 14:21:07; Préstamo cliente: enrique perez peña monto prestado $55500.00 duración: 2 meses interes: 10000.00

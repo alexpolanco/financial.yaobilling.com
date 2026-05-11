@@ -1,0 +1,9 @@
+Edicion; 2023-07-04 11:05:58; Transaccion: 314 nuevo valor interes: 3000 nuevo valor capital: 3000
+Edicion; 2023-07-04 11:06:11; Transaccion: 357 nuevo valor interes: 3000 nuevo valor capital: 3000
+Edicion; 2023-07-04 11:06:21; Transaccion: 395 nuevo valor interes: 3000 nuevo valor capital: 3000
+Eliminado; 2023-07-04 12:55:45; Prestamo del cliente: dionisio castillo lora monto $43000.00 duración: 15 meses interes: 7000.00
+Eliminado; 2023-07-04 12:55:45; Préstamo: 36 
+Eliminado; 2023-07-04 12:55:45; transacciones del préstamo: 36 
+Eliminado; 2023-07-04 12:55:45; amortización: 36 
+Agregado; 2023-07-04 14:43:50; Nuevo préstamo cliente: timmy daniel martinez vilorio monto prestado $30000 duración: 15 semanas interes: 3000
+Actualizado; 2023-07-04 14:44:04; Préstamo cliente: timmy daniel martinez vilorio monto prestado $30000.00 duración: 15 meses interes: 3000.00

@@ -1,0 +1,24 @@
+Agregado; 2024-04-22 14:34:31; Préstamo: 328 Adicional al capital, cliente:  $28600
+Agregado; 2024-04-22 14:39:23; Préstamo: 167 Abono al capital de cliente: hugo rodriguez $150000 
+Agregado; 2024-04-22 14:40:47; Nuevo préstamo cliente: hugo rodriguez  monto prestado $200000 duración: 10 meses interes: 10000
+Agregado; 2024-04-22 14:41:15; Préstamo: 387 Abono al capital de cliente: hugo rodriguez $150000 
+Eliminado; 2024-04-22 14:43:07; Préstamo: 387 Cliente: hugo rodriguez  monto $50000.00 duración: 10 meses interes: 10000.00
+Eliminado; 2024-04-22 14:43:07; Préstamo: 387 
+Eliminado; 2024-04-22 14:43:07; amortización: 387 
+Agregado; 2024-04-22 14:49:49; Nuevo préstamo cliente: hector bienvenido maria liranzo  monto prestado $310000 duración: 10 meses interes: 15500
+Actualizado; 2024-04-22 14:50:30; Préstamo cliente: hector bienvenido maria liranzo  monto prestado $310000.00 duración: 10 meses interes: 15500
+Eliminado; 2024-04-22 14:52:46; Préstamo: 387 Cliente: hector bienvenido maria liranzo  monto $310000.00 duración: 10 meses interes: 15500.00
+Eliminado; 2024-04-22 14:52:46; Préstamo: 387 
+Eliminado; 2024-04-22 14:52:46; amortización: 387 
+Agregado; 2024-04-22 14:55:07; Préstamo: 328 Abono al capital de cliente: hector bienvenido maria liranzo $80000 
+Agregado; 2024-04-22 14:56:23; Préstamo: 288 Abono al capital de cliente: hector bienvenido maria liranzo $130000 
+Agregado; 2024-04-22 15:10:38; Préstamo: 358 Abono al capital de cliente: miguel hilario pichardo $80000 
+Agregado; 2024-04-22 15:40:24; Nuevo préstamo cliente: modesta crecencia paredes pierrot monto prestado $170000 duración: 10 meses interes: 8500
+Eliminado; 2024-04-22 15:40:36; Préstamo: 340 Cliente: modesta crecencia paredes pierrot monto $170000.00 duración: 10 meses interes: 8500.00
+Eliminado; 2024-04-22 15:40:36; Préstamo: 340 
+Eliminado; 2024-04-22 15:40:36; amortización: 340 
+Agregado; 2024-04-22 20:21:58; Nuevo préstamo cliente: dulce maria olivo cheriz monto prestado $100000 duración: 10 meses interes: 5000
+Eliminado; 2024-04-22 20:22:09; Préstamo: 344 Cliente: dulce maria olivo cheriz monto $50000.00 duración: 10 meses interes: 2500.00
+Eliminado; 2024-04-22 20:22:09; Préstamo: 344 
+Eliminado; 2024-04-22 20:22:09; amortización: 344 
+Agregado; 2024-04-22 20:39:29; Préstamo: 231 Abono al capital de cliente: dianelba gizeh mercedes de castillo $5000 

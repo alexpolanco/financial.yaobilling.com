@@ -1,0 +1,43 @@
+Agregado; 2025-06-18 18:48:22; Nuevo préstamo cliente: felix ureña luciano monto prestado $5000 duración: 10 meses interes: 250
+Actualizado; 2025-06-18 18:48:50; Préstamo cliente: felix ureña luciano monto prestado $5000000 duración: 10 meses interes: 250
+Actualizado; 2025-06-18 18:49:09; Préstamo cliente: felix ureña luciano monto prestado $50000 duración: 10 meses interes: 250000
+Eliminado; 2025-06-18 18:49:24; Préstamo: 591 Cliente: felix ureña luciano monto $5000.00 duración: 10 meses interes: 250000.00
+Eliminado; 2025-06-18 18:49:24; Préstamo: 591 
+Eliminado; 2025-06-18 18:49:24; amortización: 591 
+Agregado; 2025-06-18 18:49:58; Nuevo préstamo cliente: felix ureña luciano monto prestado $50000 duración: 10 meses interes: 2500
+Actualizado; 2025-06-18 19:40:32; Préstamo cliente: modesto gonzalez lopez monto prestado $129000.00 duración: 10 meses interes: 6450
+Eliminado; 2025-06-18 19:40:42; Préstamo: 565 Cliente: modesto gonzalez lopez monto $82000.00 duración: 10 meses interes: 4100.00
+Eliminado; 2025-06-18 19:40:42; Préstamo: 565 
+Eliminado; 2025-06-18 19:40:42; amortización: 565 
+Eliminado; 2025-06-18 19:40:51; Préstamo: 519 Cliente: modesta crecencia paredes pierrot monto $177000.00 duración: 10 meses interes: 7080.00
+Eliminado; 2025-06-18 19:40:51; Préstamo: 519 
+Eliminado; 2025-06-18 19:40:51; amortización: 519 
+Agregado; 2025-06-18 19:41:21; Préstamo: 577 Pago de cliente: modesto gonzalez lopez Balance anterior $129000.00 Monto pagado $6450.00 INTERES $129000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:42:10; Préstamo: 378 Pago de cliente: marcia martinez y adames de ferrera Balance anterior $212000.00 Monto pagado $8900 PAGO IRREGULAR $212000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:42:24; Préstamo: 553 Pago de cliente: angela frias genao Balance anterior $50000.00 Monto pagado $2500.00 INTERES $50000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:42:39; Préstamo: 538 Pago de cliente: julia garcia castillo de castillo Balance anterior $106000.00 Monto pagado $5300.00 INTERES $106000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:44:38; Préstamo: 444 Pago de cliente: miguel hilario pichardo Balance anterior $120000.00 Monto pagado $6000.00 INTERES $120000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:44:53; Préstamo: 525 Pago de cliente: rafael guzman ragalado Balance anterior $165000.00 Monto pagado $8250.00 INTERES $165000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:45:12; Préstamo: 437 Pago de cliente: eugenio ernesto marchena fermin Balance anterior $185000.00 Monto pagado $9250.00 INTERES $185000.00 BALANCE ACTUAL
+Actualizado; 2025-06-18 19:45:30; Préstamo cliente: epifanio cortorreal balbuena monto prestado $220000.00 duración: 10 meses interes: 11000
+Agregado; 2025-06-18 19:45:39; Préstamo: 570 Pago de cliente: epifanio cortorreal balbuena Balance anterior $220000.00 Monto pagado $11000.00 INTERES $220000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:46:06; Préstamo: 556 Pago de cliente: pedro pablo valdez sanchez Balance anterior $316000.00 Monto pagado $7100 PAGO IRREGULAR $316000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:46:07; Préstamo: 556 Pago de cliente: pedro pablo valdez sanchez Balance anterior $316000.00 Monto pagado $7100 PAGO IRREGULAR $316000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:46:08; Préstamo: 556 Pago de cliente: pedro pablo valdez sanchez Balance anterior $316000.00 Monto pagado $7100 PAGO IRREGULAR $316000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:46:21; Préstamo: 541 Pago de cliente: ana cristina maloon echavarria Balance anterior $173000.00 Monto pagado $8650.00 INTERES $173000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:46:36; Préstamo: 463 Pago de cliente: amarilis lora alonzo de capellan Balance anterior $100000.00 Monto pagado $5000.00 INTERES $100000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:48:13; Préstamo: 501 Pago de cliente: ana maria gonzalez peña Balance anterior $75000.00 Monto pagado $3750.00 INTERES $75000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:48:56; Préstamo: 516 Pago de cliente: nidia elsa ramona oller javier Balance anterior $180000.00 Monto pagado $8600 PAGO IRREGULAR $180000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:49:11; Préstamo: 537 Pago de cliente: ana rosa paredes liriano Balance anterior $50000.00 Monto pagado $2500.00 INTERES $50000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:49:35; Préstamo: 127 Pago de cliente: ligia maria dolores alvarado de pereyra Balance anterior $205000.00 Monto pagado $6500.00 INTERES $205000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:51:42; Préstamo: 524 Pago de cliente: natividad maldonado de los santos Balance anterior $260700.00 Monto pagado $11900 PAGO IRREGULAR $260700.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:51:56; Préstamo: 589 Pago de cliente: modesta crecencia paredes pierrot Balance anterior $177000.00 Monto pagado $7080.00 INTERES $177000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:52:10; Préstamo: 527 Pago de cliente: colombino mata juma Balance anterior $127000.00 Monto pagado $6350.00 INTERES $127000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:52:22; Préstamo: 486 Pago de cliente: belgica acosta de fernandez Balance anterior $100000.00 Monto pagado $5000.00 INTERES $100000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:52:37; Préstamo: 388 Pago de cliente: dulce maria olivo cheriz Balance anterior $160000.00 Monto pagado $8000.00 INTERES $160000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:52:57; Préstamo: 497 Pago de cliente: dionisio castillo lora Balance anterior $391000.00 Monto pagado $15000 PAGO IRREGULAR $391000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:53:18; Préstamo: 558 Pago de cliente: claribel altagracia mendoza hernandez Balance anterior $123100.00 Monto pagado $6155.00 INTERES $123100.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:53:41; Préstamo: 535 Pago de cliente: jose francisco lopez fermin Balance anterior $150000.00 Monto pagado $7200.00 PAGO IRREGULAR $150000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:53:58; Préstamo: 549 Pago de cliente: aracelis jimenez peña de hernandez Balance anterior $156000.00 Monto pagado $7800.00 INTERES $156000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:54:27; Préstamo: 424 Pago de cliente: luisa kery Balance anterior $120000.00 Monto pagado $4100 PAGO IRREGULAR $120000.00 BALANCE ACTUAL
+Agregado; 2025-06-18 19:54:47; Préstamo: 408 Pago de cliente: leoncia de jesus adames Balance anterior $180000.00 Monto pagado $8500.00 PAGO IRREGULAR $180000.00 BALANCE ACTUAL

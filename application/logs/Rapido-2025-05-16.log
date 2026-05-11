@@ -1,0 +1,18 @@
+Eliminado; 2025-05-16 12:35:39; Préstamo:  Adicional del cliente:  monto  $
+Eliminado; 2025-05-16 12:35:39; Préstamo: 673 Adicional del cliente: pedro castillo peralta monto ADICIONAL $150000
+Agregado; 2025-05-16 12:35:59; Préstamo: 673 Adicional al capital, cliente:  $12000
+Eliminado; 2025-05-16 12:36:20; Préstamo: 673 Adicional del cliente: pedro castillo peralta monto ADICIONAL $12000
+Eliminado; 2025-05-16 12:36:21; Préstamo:  Adicional del cliente:  monto  $
+Agregado; 2025-05-16 12:36:40; Préstamo: 673 Adicional al capital, cliente:  $120000
+Agregado; 2025-05-16 12:56:37; Nuevo préstamo cliente: pedro castillo peralta monto prestado $2665400 duración: 1 mes interes: 0
+Agregado; 2025-05-16 12:57:00; Préstamo: 786 Abono al capital de cliente: pedro castillo peralta $2665400 
+Agregado; 2025-05-16 13:12:26; PAGO IRREGULAR
+Agregado; 2025-05-16 13:12:26; Préstamo: 723 Abono al capital de cliente: pedro castillo peralta $20500 
+Agregado; 2025-05-16 13:49:57; Nuevo préstamo cliente: miguel hilario pichardo monto prestado $2000 duración: 1 mes interes: 0
+Agregado; 2025-05-16 14:26:12; Nuevo préstamo cliente: modesta crecencia paredes pierrot monto prestado $5700 duración: 1 mes interes: 0
+Agregado; 2025-05-16 14:35:55; Préstamo: 705 Adicional al capital, cliente:  $7000
+Agregado; 2025-05-16 14:45:06; PAGO IRREGULAR
+Agregado; 2025-05-16 14:45:06; Préstamo: 761 Abono al capital de cliente: eugenio ernesto marchena fermin $7500 
+Agregado; 2025-05-16 14:47:08; PAGO IRREGULAR
+Agregado; 2025-05-16 14:47:08; Préstamo: 773 Abono al capital de cliente: nelson maximiliano sosa guillermo $1000 
+Eliminado; 2025-05-16 14:51:22; Préstamo: 673 Cliente: pedro castillo peralta monto $2665400.00 duración: 1 mes interes: 0.00

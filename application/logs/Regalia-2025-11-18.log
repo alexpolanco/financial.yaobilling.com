@@ -1,0 +1,12 @@
+Agregado; 2025-11-18 12:45:15; Nuevo préstamo cliente: teresa adaldenia paula monto prestado $5000 duración: 1 mes interes: 1000
+Agregado; 2025-11-18 13:17:11; Nuevo préstamo cliente: julia garcia castillo de castillo monto prestado $33000 duración: 1 mes interes: 0
+Agregado; 2025-11-18 13:17:26; Nuevo préstamo cliente: adonis taveras garcia  monto prestado $33000 duración: 1 mes interes: 0
+Eliminado; 2025-11-18 13:20:13; Préstamo: 689 Cliente: adonis taveras garcia  monto $33000.00 duración: 1 mes interes: 0.00
+Eliminado; 2025-11-18 13:20:13; Préstamo: 689 
+Eliminado; 2025-11-18 13:20:13; amortización: 689 
+Agregado; 2025-11-18 17:45:42; Nuevo préstamo cliente: ramon felix frias polanco monto prestado $3000 duración: 1 mes interes: 5000
+Actualizado; 2025-11-18 17:46:03; Préstamo cliente: ramon felix frias polanco monto prestado $30000.00 duración: 1 mes interes: 5000.00
+Eliminado; 2025-11-18 18:06:37; Préstamo: 689 Cliente: ramon felix frias polanco monto $3000.00 duración: 1 mes interes: 5000.00
+Eliminado; 2025-11-18 18:06:37; Préstamo: 689 
+Eliminado; 2025-11-18 18:06:37; amortización: 689 
+Agregado; 2025-11-18 18:07:32; Nuevo préstamo cliente: ramon felix frias polanco monto prestado $30000 duración: 1 mes interes: 5000
