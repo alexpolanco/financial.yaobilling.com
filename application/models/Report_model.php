@@ -35,7 +35,7 @@ class Report_model extends CI_Model  {
 				GROUP BY
 					`customer_id`
 		) AS lf ', 'customer.customer_id = lf.customer_id', 'LEFT OUTER');
-		//$this->db->or_where('loansfixed.company_id', $this->session->userdata('company_id'));
+		$this->db->or_where('loansfixed.company_id', $this->session->userdata('company_id'));
 
 		$this->db->join('(
 				SELECT
@@ -49,7 +49,7 @@ class Report_model extends CI_Model  {
 				GROUP BY
 					`customer_id`
 		) AS lc', 'customer.customer_id = lc.customer_id ', 'LEFT OUTER');
-		//$this->db->or_where('loanscapital.company_id', $this->session->userdata('company_id'));
+		$this->db->or_where('loanscapital.company_id', $this->session->userdata('company_id'));
 
 		$this->db->join('(
 				SELECT
@@ -62,7 +62,7 @@ class Report_model extends CI_Model  {
 				GROUP BY
 					`customer_id`
 		) AS li', 'customer.customer_id = li.customer_id ', 'LEFT OUTER');
-		//$this->db->or_where('loansinversion.company_id', $this->session->userdata('company_id'));
+		$this->db->or_where('loansinversion.company_id', $this->session->userdata('company_id'));
 
 		$this->db->join('(
 				SELECT
@@ -75,7 +75,7 @@ class Report_model extends CI_Model  {
 				GROUP BY
 					`customer_id`
 		) AS lqb', 'customer.customer_id = lqb.customer_id ', 'LEFT OUTER');
-		//$this->db->or_where('loansquickbusiness.company_id', $this->session->userdata('company_id'));
+		$this->db->or_where('loansquickbusiness.company_id', $this->session->userdata('company_id'));
 
 		$this->db->join('(
 				SELECT
@@ -88,7 +88,7 @@ class Report_model extends CI_Model  {
 				GROUP BY
 					`customer_id`
 		) AS lch', 'customer.customer_id = lch.customer_id', 'LEFT OUTER');
-		//$this->db->or_where('loanschristmas.company_id', $this->session->userdata('company_id'));
+		$this->db->or_where('loanschristmas.company_id', $this->session->userdata('company_id'));
 
 		/*$this->db->where('loansfixed.entry_date >=', $dateform);
 		$this->db->where('loansfixed.entry_date <=', $dateto);
@@ -203,27 +203,6 @@ class Report_model extends CI_Model  {
 		$this->db->where('customer.company_id', $this->session->userdata('company_id'));
 
 		$this->db->group_by('customer.customer_id');
-		$this->db->order_by('customer.customer_first_name', 'ASC');
-
-		return $this->db->get('customer')->result();
-	}
-
-	public function findAllGuarantors($dateform = null, $dateto = null)
-	{
-		$this->db->select('customer.customer_id, UPPER(customer.customer_first_name) customer_first_name, customer.customer_personalid, customer.customer_phone, "'.$dateform.'" as datefrom, "'.$dateto.'" as dateto,
-
-		IF(ISNULL((SELECT loansfixed.loans_amount FROM loansfixed WHERE loansfixed.current_balance > 0 AND loansfixed.company_id="'.$this->session->userdata('company_id').'" AND loansfixed.customer_id=customer.customer_id GROUP BY loansfixed.customer_id)), "No", "Si") loansfixed_active, 
-		
-		IF(ISNULL((SELECT loanscapital.loans_amount FROM loanscapital WHERE loanscapital.current_balance > 0 AND loanscapital.company_id="'.$this->session->userdata('company_id').'" AND loanscapital.customer_id=customer.customer_id GROUP BY loanscapital.customer_id)), "No", "Si") loanscapital_active, 
-		
-		IF(ISNULL((SELECT loanschristmas.loans_amount FROM loanschristmas WHERE loanschristmas.current_balance > 0 AND loanschristmas.company_id="'.$this->session->userdata('company_id').'" AND loanschristmas.customer_id=customer.customer_id GROUP BY loanschristmas.customer_id)), "No", "Si") loanschristmas_active, 
-		
-		IF(ISNULL((SELECT loansquickbusiness.loans_amount FROM loansquickbusiness WHERE loansquickbusiness.current_balance > 0 AND loansquickbusiness.company_id="'.$this->session->userdata('company_id').'" AND loansquickbusiness.customer_id=customer.customer_id GROUP BY loansquickbusiness.customer_id)), "No", "Si") loansquickbusiness_active, 
-		
-		IF(ISNULL((SELECT loansinversion.loans_amount FROM loansinversion WHERE loansinversion.current_balance > 0 AND loansinversion.company_id="'.$this->session->userdata('company_id').'" AND loansinversion.customer_id=customer.customer_id GROUP BY loansinversion.customer_id)), "No", "Si") loansinversion_active
-		');
-
-		$this->db->where('customer.company_id', $this->session->userdata('company_id'));
 		$this->db->order_by('customer.customer_first_name', 'ASC');
 
 		return $this->db->get('customer')->result();
@@ -346,7 +325,7 @@ class Report_model extends CI_Model  {
 				break;
 			case 'Inversion':
 				$this->db->join('loansinversion', 'customer.customer_id = loansinversion.customer_id', 'LEFT');
-				$this->db->join('loansinversion_transactions', 'loansinversion.customer_id = loansinversion_transactions.loans_no AND payment_date >= "'. $dateform .'" AND payment_date <= "'. $dateto .'" AND transactions_type IN ("CAPITAL", "CUOTA", "INTERES", "PAGO IRREGULAR")', 'LEFT');
+				$this->db->join('loansinversion_transactions', 'loansinversion.loans_no = loansinversion_transactions.loans_no AND payment_date >= "'. $dateform .'" AND payment_date <= "'. $dateto .'" AND transactions_type IN ("CAPITAL", "CUOTA", "INTERES", "PAGO IRREGULAR")', 'LEFT');
 				//$this->db->where('loansinversion.company_id', $this->session->userdata('company_id'));
 				//$this->db->where('loansinversion_transactions.company_id', $this->session->userdata('company_id'));
 				$this->db->where('loansinversion.current_balance >','0');

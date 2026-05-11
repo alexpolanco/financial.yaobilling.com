@@ -133,8 +133,8 @@ class Report extends MY_Controller  {
 
 	public function yearly()
 	{
-		$start_date=date('Y-01-d'); // year Starting Date
-		$end_date=date('Y-12-d');  // year Ending Date
+		$start_date=date('Y-01-01'); // year Starting Date
+		$end_date=date('Y-12-31');  // year Ending Date
 
 		$this->db->select('entry_date'); 
 		$this->db->where('entry_date >=', $start_date);
@@ -265,7 +265,7 @@ class Report extends MY_Controller  {
 		$dateform = empty($_POST['txtfrom_date']) ? date('Y-m-d') : $_POST['txtfrom_date'];
 		$dateto = empty($_POST['txtto_date']) ? date('Y-m-d') : $_POST['txtto_date'];
 
-		$data['order'] = $this->report_model->findAllGuarantors($dateform, $dateto);	
+		$data['order'] = $this->report_model->findAllCustomers($dateform, $dateto);	
 		
 		$this->load->view('admin/report/report_guarantors',$data);
 	}
@@ -285,7 +285,8 @@ class Report extends MY_Controller  {
 	{
 		$dateform = empty($_POST['txtfrom_date']) ? date('Y-m-d') : $_POST['txtfrom_date'];
 		$dateto = empty($_POST['txtto_date']) ? date('Y-m-d') : $_POST['txtto_date'];
-		$data="";
+		//$data="";
+		$data = ['datefrom' => $dateform, 'dateto' => $dateto];
 
 		$this->load->view('admin/report/logs',$data);
 	}
@@ -355,7 +356,8 @@ class Report extends MY_Controller  {
 
 	public function get_customer($name)
 	{
-		$query = $this->db->query('SELECT * FROM customer WHERE customer_first_name = "'.$name.'"');
+		//$query = $this->db->query('SELECT * FROM customer WHERE customer_first_name = "'.$name.'"');
+		$query = $this->db->where('customer_first_name', $name)->get('customer');
 		return $query->row_array();
 	}
 	// pdf method
